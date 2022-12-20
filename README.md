@@ -1,18 +1,19 @@
 <H1> Front-End Project </H1>
-This project is an example of a front-end website developed using HTML, CSS, and JavaScript. The purpose of this project is to demonstrate the user interface development skills of a front-end developer.
+<p> This project is an example of a front-end website developed using HTML, CSS, and JavaScript. The purpose of this project is to demonstrate the user interface development skills of a front-end developer. </p>
 
 <h2> Installation</h2>
 To install this project on your local machine, follow these steps:
 
-Clone the repository using the "git clone" command followed by the repository address:
-Copy code
-git clone https://github.com/<your-username>/front-end-project.git
-Access the project directory:
-Copy code
-cd front-end-project
-Open the "index.html" file in a browser to view the project.
+<ol>
+  <li> Clone the repository using the "git clone" command followed by the repository address:
+git clone https://github.com/<your-username>/front-end-project.git </li>
+<li> Access the project directory:
 
-  <h2> Tecnologias Utilizadas </h2>
+cd front-end-project </li>
+<li> Open the "index.html" file in a browser to view the project.</li>
+</ol>
+
+  <h2> Technologies Used </h2>
 This project was developed using the following technologies:
 
   <li> HTML </li>
