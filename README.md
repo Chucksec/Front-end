@@ -1,5 +1,5 @@
 <H1> Front-End Project </H1>
-<p> This project is an example of a front-end website developed using HTML, CSS, and JavaScript. The purpose of this project is to demonstrate the user interface development skills of a front-end developer. </p>
+This project is an example of a front-end website developed using HTML, CSS, and JavaScript. The purpose of this project is to demonstrate the user interface development skills of a front-end developer. 
 
 <h2> Installation</h2>
 To install this project on your local machine, follow these steps:
