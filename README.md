@@ -6,7 +6,8 @@ To install this project on your local machine, follow these steps:
 
 <ol>
   <li> Clone the repository using the "git clone" command followed by the repository address:
-git clone https://github.com/<your-username>/front-end-project.git </li>
+    
+    git clone https://github.com/<your-username>/front-end-project.git </li>
 <li> Access the project directory:
 
 cd front-end-project </li>
