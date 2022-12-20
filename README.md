@@ -1,4 +1,4 @@
-Projeto de Front-End
+<H1> Projeto de Front-End </H1>
 Este projeto é um exemplo de um site de front-end desenvolvido utilizando HTML, CSS e JavaScript. O objetivo deste projeto é demonstrar as habilidades de desenvolvimento de interface do usuário de um programador de front-end.
 
 Instalação
