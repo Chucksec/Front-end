@@ -13,19 +13,20 @@ cd front-end-project
 Open the "index.html" file in a browser to view the project.
 
   <h2> Tecnologias Utilizadas </h2>
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+This project was developed using the following technologies:
 
   <li> HTML </li>
   <li> CSS </li>
   <li> JavaScript </li>
-  <li> Contribuição </li>
+ 
+  <h2> Contribution </h2>
   
-  <h2> Se você deseja contribuir para este projeto, siga os seguintes passos:</h2>
-
+ If you wish to contribute to this project, follow these steps: 
   <ol> 
-    <li> Faça um fork do repositório. </li>
-    <li> Crie uma branch para suas alterações: git checkout -b minha-alteracao </li>
-Faça as alterações e adicione-as ao repositório: git add .
-Faça um commit das alterações: git commit -m "Adicionando minhas alterações"
-Envie suas alterações para o repositório: git push origin minha-alteracao
-Crie um pull request. </ol>
+    <li> Fork the repository. </li>
+    <li> Make the changes and add them to the repository: git add </li>
+    <li> Faça as alterações e adicione-as ao repositório: git add . </li>
+    <li> Commit the changes: git commit -m "Adding my changes" </li>
+    <li> Push the changes to the repository: git push origin my-change </li>
+    <li> Create a pull request. </li> 
+  </ol>
