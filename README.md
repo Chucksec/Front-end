@@ -22,7 +22,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   
   <h2> Se você deseja contribuir para este projeto, siga os seguintes passos:</h2>
 
-  <ul> Faça um fork do repositório. </ul>
+  <ol> Faça um fork do repositório. </ol>
 Crie uma branch para suas alterações: git checkout -b minha-alteracao
 Faça as alterações e adicione-as ao repositório: git add .
 Faça um commit das alterações: git commit -m "Adicionando minhas alterações"
